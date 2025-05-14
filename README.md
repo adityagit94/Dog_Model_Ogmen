@@ -31,14 +31,3 @@ dog_dataset/
 ## 🚀 Model Architecture
 
 I use [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) for landmark (keypoint) detection.
-
-## 📄 License
-
-This project is open-source under the MIT License.
-
----
-
-## 👨‍💻 Author
-
-Created for coursework on dog pose estimation using deep learning.  
-Feel free to fork, extend or contribute!
