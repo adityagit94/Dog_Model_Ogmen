@@ -13,8 +13,8 @@ This repository contains the code and resources used for training a keypoint det
 
 ## Model
 
-- 🚀 Model Used: **YOLOv8 (Medium Pose Model)** from [Ultralytics](https://github.com/ultralytics/ultralytics)
-- 📈 Trained for 50 epochs using annotated dog images with facial keypoints.
+- 🚀 Model Used: **YOLOv8 (yolov8x-pose-p6 Model)** from [Ultralytics](https://github.com/ultralytics/ultralytics)
+- 📈 Trained for 100 epochs using annotated dog images with facial keypoints.
 
 **Directory structure:**
 ```
@@ -30,4 +30,4 @@ dog_dataset/
 
 ## 🚀 Model Architecture
 
-I use [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) for landmark (keypoint) detection.
+I used [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) for landmark (keypoint) detection.
